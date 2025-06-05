@@ -2,8 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Locafy--mobile-black?logo=github)](https://github.com/nataliacatrine/Locafy-mobile)
 
-**Locafy** é um aplicativo Android desenvolvido em **Kotlin**, utilizando **WebView**, você pode acessar o site aqui:  
-🔗 [https://locafyproject.netlify.app](https://locafyproject.netlify.app)
+**Locafy** é um aplicativo Android desenvolvido em **Kotlin**, utilizando **WebView**
 
 ---
 
@@ -82,6 +81,9 @@ app/build/outputs/apk/
 ## 🔗 Referência
 
 Nosso repositório do site: https://github.com/italo1101/locafy
+
+Você pode acessar o site aqui:  
+[https://locafyproject.netlify.app](https://locafyproject.netlify.app)
 
 
 ---
